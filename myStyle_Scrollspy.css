@@ -6,29 +6,23 @@ body {
   padding-top: 50px;
   height: 500px;
   color: #fff;
-  background-color: #1E88E5;
+  background-color: #e70c0c;
 }
 
 #section2 {
   padding-top: 50px;
   height: 500px;
   color: #fff;
-  background-color: #673ab7;
+  background-color: #d821d8;
 }
 
 #section3 {
   padding-top: 50px;
   height: 500px;
   color: #fff;
-  background-color: #ff9800;
+  background-color: #42b415;
 }
 
-#section4 {
-  padding-top: 50px;
-  height: 500px;
-  color: #fff;
-  background-color: #008000;
-}
 
 /* #section41 {
   padding-top: 50px;
